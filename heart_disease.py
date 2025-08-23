@@ -30,7 +30,7 @@ Algorithms Used:
 st.markdown(data)
 
 
-st.image('https://i0.wp.com/asianheartinstitute.org/wp-content/uploads/2024/11/Understanding-How-Heart-Disease-Impacts-Your-Body.jpg?fit=1572%2C917&ssl=1')
+st.image('"C:\Users\Dhruv Agnihotri\Downloads\ChatGPT Image Aug 23, 2025, 10_53_51 AM.png"')
 
 with open('heart_disease_pred.pkl','rb') as f:
     chatgpt = pickle.load(f)
